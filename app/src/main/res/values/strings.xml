@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">converterDollar</string>
+    <string name="hint">$</string>
+</resources>
